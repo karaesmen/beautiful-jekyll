@@ -14,16 +14,20 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My website
+title: Welcome welcome welcome!
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: Here are my ramblings about coding in R
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  My favorite things:
+    - Fresh morning breeze   
+    - Cyrstal clear sea blue   
+    - My little pooch Bernie
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
