@@ -2,6 +2,7 @@
 layout: post
 title: Operations on the server
 subtitle: Life saver one liners that I manage to forget every time
+image: /img/kirpi_sq.JPG
 tags: [unix, shell]
 ---
 
