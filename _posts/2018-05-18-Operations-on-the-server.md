@@ -82,13 +82,14 @@ See some nice examples [here](http://www.thegeekstuff.com/2010/02/awk-conditiona
 Other operations
 ================
 
+
+<!-- 
 for loops
 ---------
 
 ``` bash
 #!/bin/sh
 
-cd /projects/rpci/lsuchest/lsuchest/Rserve/ImputeData/var/db/gwas/imputed_data/BMT093013_forImpute/
 
 for chrom in `seq 1 22` 
 do
@@ -106,6 +107,8 @@ rm /projects/rpci/lsuchest/ezgi/GenexDrug/impute2.chunk.lists/chr${chrom}.impute
 
 done
 ```
+
+ -->
 
 Nested loop example
 -------------------
