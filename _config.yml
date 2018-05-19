@@ -28,10 +28,10 @@ navbar-links:
     - Fresh morning breeze: "https://www.poemhunter.com/poem/fresh-morning-breeze/"  
     - Cyrstal clear sea blue: "https://lujop.deviantart.com/art/Blue-sea-20963428"  
     - My little pooch Bernie: "https://www.akc.org/dog-breeds/beagle/"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+#  Resources:
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+#    - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -39,7 +39,7 @@ avatar: "/img/profile_sq.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+title-img: "/img/my_face.png"
 
 # --- Background colour/image options --- #
 
